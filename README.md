@@ -9,7 +9,10 @@
 # Description: 
 This is a GUI login project that uses SQLite as its database system. <br>
 This project is a way for me to practice GUI development and database management actions including, but not limited to; <br>
-Accessing databases <br> Creating tables inside databases <br>Inserting data into the tables <br> Checking the contents of tables
+- Accessing databases 
+- Creating tables inside databases 
+- Inserting data into the tables 
+- Checking the contents of tables
 
 # Version History:
 # V-1.00: (3/29/2024)
