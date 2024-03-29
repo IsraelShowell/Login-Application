@@ -11,7 +11,7 @@ This is a GUI login project that uses SQLite as its database system. <br>
 This project is a way for me to practice GUI development and database management.
 
 # Version History:
-# V-1.00: (Date)
+# V-1.00: (3/29/2024)
 Initial Version <br>
 Uploaded to Github
 
