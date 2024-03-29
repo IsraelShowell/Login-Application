@@ -1,7 +1,7 @@
 # Creator: Israel Showell
 # Start Date: 3/29/2024
 # End Date: 3/29/2024
-# Project: Login App
+# Project: Login Application
 # Version: 1.00
 
 
