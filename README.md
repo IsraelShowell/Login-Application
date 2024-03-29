@@ -23,6 +23,7 @@ Uploaded to Github
 # Current Features as of V-1.00:
 - A user can enter in a username and password to login
 - If they exist, a messagebox will display that the login work, otherwise, the messagebox will display it failed
+- Program creates a database and table if neccsary, and then populates the top row with a default username and password
 
 # Future Features to Implement:
 - Add a Sign Up Window
