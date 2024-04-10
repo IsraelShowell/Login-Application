@@ -14,6 +14,11 @@ This project is a way for me to practice GUI development and database management
 - Inserting data into the tables 
 - Checking the contents of tables
 
+# Concepts Used:
+- Database Creation and Management
+- SQL/SQLite Querying
+- UI Design
+
 # Version History:
 # V-1.00: (3/29/2024)
 Initial Version <br>
